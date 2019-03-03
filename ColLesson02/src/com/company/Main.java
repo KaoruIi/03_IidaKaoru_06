@@ -6,30 +6,41 @@ public class Main {
 
     public static void main(String[] args){
 
-        Word tango = new Word();
-        Scanner scanner = new Scanner(System.in);
-        String[] word = new String[9];
+        Word[] words = new Word[10];
 
         System.out.println("わからなかった単語とその意味をスペースで区切って入力して下さい");
+        Scanner scanner = new Scanner(System.in);
+        String input = scanner.nextLine();
 
 
-        while (String input_word != "e") {
+        int index = 0;
+        while (!input.equals("e")) {
 
-            System.out.print("次の単語と意味を入力して下さい。”e”で終了します。");
-            String input_word = scanner.next();
-            String input_meaning = scanner.next();
 
-            System.out.println();
+            String[] tmp = input.split("");
+            Word wd = new Word(tmp[0],tmp[1]);
+            words[index] = wd;
+            index++;
+
+            System.out.println("次の単語と意味を入力して下さい。”e”で終了します。");
+            input = scanner.nextLine();
+
         }
+
+
+        try{
+            words[index] = wd;
+        }
+
+
+
+
+        for (int i = 0; i < index; i++) {
+            System.out.println(words[i]);
+        }
+        System.out.println( index + "件登録しました。");
+
+
     }
-
-
-        for (int i = 0; i < ; i++) {
-        System.out.println("単語：" + tango.getWord() + " 意味：" + tango.getMeaning());
-    }
-        System.out.println( + "件登録しました。");
-
-
 
 }
-

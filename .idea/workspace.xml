@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fa02a16-9bc4-4346-bba5-83cd8101b224" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ColLesson01/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson01/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson01/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson01/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson01/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson01/ColLesson01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson01/out/production/ColLesson01/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson01/out/production/ColLesson01/com/company/Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson01/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson01/src/com/company/Word.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson02/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/ColLesson03/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson02/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ColLesson03/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ColLesson03/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson02/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ColLesson03/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson02/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ColLesson03/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ColLesson03/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ColLesson03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson02/ColLesson02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ColLesson03/ColLesson03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson02/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ColLesson03/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson02/src/com/company/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/ColLesson03/src/com/company/Word.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ColLesson04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson04/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ColLesson04/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ColLesson04/src/com/company/Word.java" beforeDir="false" afterPath="$PROJECT_DIR$/ColLesson04/src/com/company/Word.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ColLesson03/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/ColLesson04/src/com/company/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="167" />
+    <option name="y" value="23" />
+    <option name="width" value="1273" />
+    <option name="height" value="757" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="03_IidaKaoru_06" type="b2602c69:ProjectViewProjectNode" />
+              <item name="03_IidaKaoru_06" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551630016053" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fa02a16-9bc4-4346-bba5-83cd8101b224" name="Default Changelist" comment="" />
+      <created>1551608723991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551608723991</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="167" y="23" width="1273" height="757" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26157597" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ColLesson03/ColLesson03.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ColLesson03/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ColLesson03/src/com/company/Word.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ColLesson04/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

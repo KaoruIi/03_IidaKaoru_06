@@ -15,15 +15,15 @@ public class CoinCase {
     public int addCoins(int input_coin, int input_count) {
         if (input_coin == 500) {
             fiveHundred = fiveHundred + input_count;
-        } else if (hundred == 100) {
+        } else if (input_coin == 100) {
             hundred = hundred + input_count;
-        } else if (fifty == 50) {
+        } else if (input_coin == 50) {
             fifty = fifty + input_count;
-        } else if (ten == 10) {
+        } else if (input_coin == 10) {
             ten = ten + input_count;
-        } else if (five == 5) {
+        } else if (input_coin == 5) {
             five = five + input_count;
-        } else if (one == 1) {
+        } else if (input_coin == 1) {
             one = one + input_count;
         }
         return 0;

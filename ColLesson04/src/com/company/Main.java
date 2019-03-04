@@ -9,7 +9,7 @@ public class Main {
 
         ArrayList<Word> words = new ArrayList<>();
 
-        System.out.println("わからなかった単語とその意味をスペースで区切って入力して下さい");
+        System.out.println("わからなかった単語とその意味をスペースで区切って入力して下さい。");
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
 
@@ -30,7 +30,6 @@ public class Main {
             for (int i = 0; i < index; i++) {
                 System.out.println("単語：" + words.get(i).word + " 意味：" + words.get(i).meaning);
             }
-
 
             System.out.println( index + "件、登録しました。");
 

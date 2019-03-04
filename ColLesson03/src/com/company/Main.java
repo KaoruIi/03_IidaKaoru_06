@@ -8,7 +8,7 @@ public class Main {
 
         Word[] words = new Word[10];
 
-        System.out.println("わからなかった単語とその意味をスペースで区切って入力して下さい");
+        System.out.println("わからなかった単語とその意味をスペースで区切って入力して下さい。");
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
 
